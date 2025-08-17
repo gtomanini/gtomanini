@@ -6,6 +6,10 @@ Passionate about backend (Java, PHP) and frontend (React, Vue.js), with strong k
 
 I'm also very interested in surfing, music and musical instruments.
 
+### 📫 Contact  
+[LinkedIn](https://www.linkedin.com/in/gustavo-tomanini/) • [Email](mailto:gustavo.tomanini@gmail.com)
+
+
 ### 🛠 Tech Stack  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
