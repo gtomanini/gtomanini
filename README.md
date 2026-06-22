@@ -1,14 +1,13 @@
-Backend engineer specializing in **Java/Spring Boot** and **PHP/Laravel**, with production experience in microservices, REST APIs, and cloud infrastructure (AWS, Azure, GCP).  
-I've built systems ranging from high-traffic ticketing platforms to global payment gateways — always focused on reliability, performance, and clean architecture.
+Backend-focused software engineer with 10+ years of experience building reliable, production-grade systems.
 
-Also into 🏄 surfing and 🎸 music.
+I care about solving problems.
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
-   <tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🔍 <a href="https://github.com/gtomanini/envwatch-vscode">EnvWatch — VS Code Extension</a></h3>
       <p>Never ship a missing environment variable again. Scans your codebase and warns you inline when a variable is used but not defined in your config files.</p>
@@ -23,11 +22,6 @@ Also into 🏄 surfing and 🎸 music.
         <li>Extensible <code>Detector</code> interface</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <!-- Slot for future project -->
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎟️ <a href="https://github.com/gtomanini/tickets-system-api">Tickets System API</a></h3>
       <p>RESTful API for event management and ticket sales. Organizers create events and define ticket pricing; users purchase through orders.</p>
@@ -44,6 +38,8 @@ Also into 🏄 surfing and 🎸 music.
         <li>UUID v7 strategy for transactional entities</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/gtomanini/ecommerce-simulator">E-Commerce Simulator</a></h3>
       <p>Full-stack shopping simulation platform — real e-commerce UX without real payments. Auto-deployed to Oracle Cloud via GitHub Actions.</p>
@@ -59,6 +55,9 @@ Also into 🏄 surfing and 🎸 music.
         <li>Prometheus + Grafana dashboards</li>
         <li>CI/CD → GHCR → Oracle Cloud</li>
       </ul>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Slot for future project -->
     </td>
   </tr>
 </table>
