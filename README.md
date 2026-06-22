@@ -1,6 +1,8 @@
+# 👋 Hey, I'm Gustavo!
+
 Backend-focused software engineer with 10+ years of experience building reliable, production-grade systems.
 
-I care about solving problems.
+I care about solving problems — and sometimes just shipping fun ideas.
 
 ---
 
@@ -23,6 +25,24 @@ I care about solving problems.
       </ul>
     </td>
     <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/gtomanini/ecommerce-simulator">E-Commerce Simulator</a></h3>
+      <p>A 100% for-fun project. The idea is simple: give people the dopamine hit of online shopping — browsing, adding to cart, checking out — without spending a cent. Built with all the classic e-commerce stimuli intact.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+      </p>
+      <ul>
+        <li>~98% test coverage (PHPUnit, min 80% enforced)</li>
+        <li>Achievement system + full audit log</li>
+        <li>Prometheus + Grafana dashboards</li>
+        <li>CI/CD → GHCR → Oracle Cloud</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🎟️ <a href="https://github.com/gtomanini/tickets-system-api">Tickets System API</a></h3>
       <p>RESTful API for event management and ticket sales. Organizers create events and define ticket pricing; users purchase through orders.</p>
       <p>
@@ -36,24 +56,6 @@ I care about solving problems.
         <li>Prometheus + Grafana observability</li>
         <li>Multi-stage Docker build + CI/CD</li>
         <li>UUID v7 strategy for transactional entities</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/gtomanini/ecommerce-simulator">E-Commerce Simulator</a></h3>
-      <p>Full-stack shopping simulation platform — real e-commerce UX without real payments. Auto-deployed to Oracle Cloud via GitHub Actions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-      </p>
-      <ul>
-        <li>~98% test coverage (PHPUnit, min 80% enforced)</li>
-        <li>Achievement system + full audit log</li>
-        <li>Prometheus + Grafana dashboards</li>
-        <li>CI/CD → GHCR → Oracle Cloud</li>
       </ul>
     </td>
     <td width="50%" valign="top">
